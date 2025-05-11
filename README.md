@@ -14,3 +14,12 @@ Technologies Used
 HTML5
 CSS3 (Flexbox, shadows, backdrop-filter)
 JavaScript (Dynamic time updates)
+
+Future Enhancements 
+* Add timezone support
+* Toggle between 12-hour/24-hour format
+* Integrate alarms or stopwatch
+
+License 📄
+MIT © [Sergey Hovakimyan]
+
